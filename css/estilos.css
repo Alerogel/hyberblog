@@ -26,9 +26,9 @@ body
 }
 #container 
 {
-    width: 500px;
-    padding: 0;
+    width: 70%;
+    padding: lem;
     text-align: left;
-    background: 1px solid #ddd;
-    margin: 0 auto;
+    border: 1px solid #ddd;
+    margin: auto;
 }
