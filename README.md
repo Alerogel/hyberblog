@@ -7,3 +7,4 @@
 ![](https://cdn-icons-png.flaticon.com/128/5968/5968267.png) ![](https://cdn-icons-png.flaticon.com/128/5968/5968242.png)
 
 Creado por Alejandro Lopez
+incluye ejemolos e windows, linux y mac.
